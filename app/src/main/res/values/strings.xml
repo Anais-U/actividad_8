@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">actividad_8</string>
+    <string name="button_open_second_activity">Abrir Segunda Actividad</string>
+    <string name="button_close_app">Cerrar Aplicación</string>
+    <string name="button_open_timber_site">Abrir Timber Site</string>
+    <string name="button_back_to_main">Volver a MainActivity</string>
+</resources>
